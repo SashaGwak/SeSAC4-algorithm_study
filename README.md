@@ -1,11 +1,10 @@
 SeSAC 알고리즘 스터디
 =====================
-# Devolopment environment
+## Devolopment environment
 * programming Language
     * python
 * Algorithm Site
     * Baekjoon Online Judge:https://www.acmicpc.net/
-<hr/>
 
 ## 진행 방식 
 * 문제를 풀고, 깃허브에 올린다
