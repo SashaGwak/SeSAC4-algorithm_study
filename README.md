@@ -16,12 +16,12 @@ SeSAC 알고리즘 스터디
 ## 진행 상황 
 ## 7월 2주
 * 백준 고양이 10171
-    * HAM, SH, kye, soo 
+    * HAM, SH, kye, soo 완료 
 * 백준 A + B 1000
-    * HAM, SH, kye, soo 
+    * HAM, SH, kye, soo 완료 
 * 백준 사칙연산 10869 
-    * HAM, SH, kye
+    * HAM, SH, kye 완료
 * 백준 시험성적 9498
-    * SH, kye
+    * SH, kye 완료 
 * 백준 구구단 2739
-    * kye
+    * kye 완료 
