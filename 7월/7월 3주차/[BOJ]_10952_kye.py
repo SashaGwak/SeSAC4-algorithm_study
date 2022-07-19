@@ -22,15 +22,3 @@ for i in range ( 5 ):
 
 print("list_A: ", list_A)
 print("list_B: ", list_B)
-
-
-
-
-"""
-
-fruit_list = []
-for i in range (1,4):
-    fruit = input('3개의 과일 입력(현재{i}번 째):')
-    fruit_list.append(fruit)
-print(fruit_list)
-"""
