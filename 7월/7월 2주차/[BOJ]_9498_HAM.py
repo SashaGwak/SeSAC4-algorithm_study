@@ -11,4 +11,4 @@ elif 60<=test<=69 :
 else :
     print("F")
 
-# elif가 들여쓰기 아님 주의
+# elif가 들여쓰기d 아님 주의
