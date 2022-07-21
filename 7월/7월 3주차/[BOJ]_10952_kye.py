@@ -1,14 +1,5 @@
-"""
-list_A = [1, 2, 3, 9, 5, 0]
-list_B = [1, 3, 4, 8, 2, 0]
-
-print(list_A[0]+list_B[0])
-print(list_A[1]+list_B[1])
-print(list_A[2]+list_B[2])
-print(list_A[3]+list_B[3])
-print(list_A[4]+list_B[4])
-print(list_A[5]+list_B[5])
-"""
+#두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.
+#입력의 마지막에는 0 두 개가 온다.
 
 list_A = []
 list_B = []
@@ -20,5 +11,4 @@ for i in range ( 5 ):
     list_B.append(input_B)
     print(list_A[i] + list_B[i])
 
-print("list_A: ", list_A)
-print("list_B: ", list_B)
+print(0, 0)
