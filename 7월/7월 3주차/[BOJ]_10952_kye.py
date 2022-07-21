@@ -10,5 +10,4 @@ for i in range ( 5 ):
     input_B = int(input("10보다 작은 정수 B를 입력하세요."))
     list_B.append(input_B)
     print(list_A[i] + list_B[i])
-
 print(0, 0)
