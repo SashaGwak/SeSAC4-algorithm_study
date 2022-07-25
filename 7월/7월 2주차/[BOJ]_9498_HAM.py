@@ -1,3 +1,6 @@
+# 9498번 사칙연산
+test = int(input())
+
 test = int(input())
 
 if 90<=test<=100 :
