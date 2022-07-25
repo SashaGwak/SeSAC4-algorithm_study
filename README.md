@@ -19,4 +19,12 @@ SeSAC 알고리즘 스터디
     * HAM, SH, kye, soo, nature 완료 
 ## 7월 3주
 * 백준 A + B - 5 
-    * key, SH 완료
+    * HAM, SH, kye, soo, nature 완료 
+* 백준 A + B - 4
+    * HAM, SH, kye, soo, nature 완료 
+* 백준 최댓값
+    * HAM, SH, kye, soo, nature 완료 
+* 백준 숫자의 개수
+    * soo nature kye SH 완료
+* 백준 알파벳 찾기
+    * SH kye nature soo 
