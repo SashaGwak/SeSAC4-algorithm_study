@@ -10,6 +10,6 @@ for n in range(1, N + 1):
     
     else: 
         nums = list((N))
-        if nums[0] - num[1] == nums[1] - nums[2]:
+        if nums[0] - nums[1] == nums[1] - nums[2]:
             hansu += 1
 print(hansu)
