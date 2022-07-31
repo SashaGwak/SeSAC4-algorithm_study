@@ -7,11 +7,11 @@
 # n이 주어졌을 때, n번째 피보나치 수를 구하는 프로그램을 작성하시오.
 N = int(input())
 
-def fivo(n): 
+def fibo(n): 
     if n == 0: 
         return 0
     elif n == 1:
         return 1 
-    return fivo(n - 1) + fivo(n - 2)
+    return fibo(n - 1) + fibo(n - 2)
 
-print(fivo(N))
+print(fibo(N))
