@@ -12,7 +12,7 @@ for n in range(1, N + 1):
         hansu += 1
     
     else: 
-        # 100부터는 ex) 123 -> 3 - 2 = 2 - 1 -> 한수 O
+        # 100부터는 ex) 123 -> 3 - 2 = 2 - 1 -> 한수O
         nums = list(map(int, str(n)))
         if nums[0] - nums[1] == nums[1] - nums[2]:
             hansu += 1
