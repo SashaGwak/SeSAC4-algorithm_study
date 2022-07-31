@@ -12,13 +12,13 @@ M = int(input()) #시작 숫자
 N = int(input()) #마지막 숫자
 
 numbers = [] #소수 리스트
-for num in range(M, N + 1):
-    error = 0 
+for num in range(max(2, M), N + 1): # M이 2 이상부터 시작하도록 조건(1은소수X)
+    flag = True
     for i in range(2, num):  #2부터 num-1까지 수로 num 나눠보기
         if num % i == 0:
-            error += 1
+            flag = False
             break  #2부터 num-1까지 나눈 몫이 0이면 error가 증가하고 for문을 끝냄(소수 아님)
-    if error == 0: # 똑같은 소수 추가되는 것 막기 위해 추가
+    if flag: # 똑같은 소수 추가되는 것 막기 위해 추가
         numbers.append(num)  #error가 없으면 소수리스트에 추가
 
 if len(numbers) > 0:
