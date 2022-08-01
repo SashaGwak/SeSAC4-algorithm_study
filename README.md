@@ -20,3 +20,8 @@ SeSAC 알고리즘 스터디
 ## 7월 3주
 * 백준 A + B - 5 / A + B - 4 / 최댓값 / 숫자의 개수 / 알파벳 찾기
     * HAM, SH, kye, soo, nature 완료 
+## 7월 3주
+* 백준 아스키 코드 / 상수 / 한수 / 피보나치 수 5
+    * HAM, SH, kye, soo, nature 완료 
+* 소수
+   * HAM, SH, kye, nature 완료 
