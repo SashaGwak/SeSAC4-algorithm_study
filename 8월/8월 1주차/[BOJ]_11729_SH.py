@@ -12,7 +12,14 @@
 n = int(input())
 
 def hanoi(n, start, end):
-    if N == 1: 
-        print(start, end)
-        return
-    hanoi(n-1, start, )
+    if n > 1: 
+        hanoi(n-1, start, 6-start-end)
+        # 기둥이 1개 이상이면, 그룹으로 묶인 n-1개 원판을 중간으로 다 옮긴다
+    print(start, end)
+    
+    if n > 1:
+        hanoi(n-1, 6-start-end, end)
+
+print(2**n-1)
+hanoi(n, 1, 3)
+# 이해가.. 안가... 내일 다시..!
