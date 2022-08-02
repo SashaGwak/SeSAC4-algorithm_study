@@ -17,7 +17,7 @@ SeSAC4기 알고리즘 스터디
 * 문제를 풀며 공부한 내용, 책을 읽으며 공부한 내용을 디스코드에 공유
 * 매주 월요일 11시 코드리뷰 및 문답식 회의 진행
 ## 진행 상황 
-📅 일정표 (매주 5문제, 4주차 완료)
+📅 일정표 (매주 5문제, 3주차 완료)
 ||1|2|3|4|5|공부내용|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1주차<br>(7.12~7.18)|[고양이](https://www.acmicpc.net/problem/10171)|[A+B](https://www.acmicpc.net/problem/1000)|[사칙연산](https://www.acmicpc.net/problem/10869)|[시험성적](https://www.acmicpc.net/problem/9498)|[구구단](https://www.acmicpc.net/problem/2739)|[정리](https://github.com/SashaGwak/SeSAC4-algorithm_study/blob/main/7%EC%9B%94/7%EC%9B%94%202%EC%A3%BC%EC%B0%A8/7_2study.md)|
