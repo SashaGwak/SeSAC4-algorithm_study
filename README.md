@@ -1,4 +1,4 @@
-SeSAC 알고리즘 스터디
+SeSAC4기 알고리즘 스터디
 =====================
 ## Devolopment environment
 * programming Language
