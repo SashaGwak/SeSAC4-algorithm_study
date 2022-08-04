@@ -134,7 +134,7 @@ def triangle_number(n):
 - 요약: 리스트의 구조를 보존하면서 결과값을 반환할 경우 reversed() 사용하자. 
 (출처: [https://www.daleseo.com/python-reversed/](https://www.daleseo.com/python-reversed/) )
 
-### **할당연산자**
+## **할당연산자**
 | Operator | Description | Example |
 | --- | --- | --- |
 | = | 왼쪽 변수에 오른쪽 값을 할당한다 | c = a + b → c = a + b |
