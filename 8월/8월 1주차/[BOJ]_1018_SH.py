@@ -17,7 +17,7 @@ for a in range(N - 7): # 8*8 으로 검사해야할 영역 지정
                     if chess[i][j] != 'W':
                         index1 += 1
                     if chess[i][j] != 'B': 
-                        index2 += 2
+                        index2 += 1
                 else: 
                     if chess[i][j] != 'B':
                         index1 += 1 
