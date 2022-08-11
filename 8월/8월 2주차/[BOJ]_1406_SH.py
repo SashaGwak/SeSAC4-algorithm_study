@@ -17,3 +17,4 @@ for _ in range(int(input())):
         stack_l.append(command[1])
 
 print(''.join(stack_l + list(reversed(stack_r))))
+# reversed만 해주면 reversed 객체가 표현된다 -> <list_reverseiterator object at 0x100cdffa0>
