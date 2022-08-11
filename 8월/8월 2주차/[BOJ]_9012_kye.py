@@ -28,13 +28,13 @@ for _ in range(T):
         print('YES')
             
             
-
+#틀림
 # import sys
 # T = int(input())
 
 # for i in range(T):
 #     vps = sys.stdin.readline()
-#     if vps.count('(') == vps.count(')'):
+#     if vps.count('(') == vps.count(')'): #(())))((
 #         print('YES')
 #     else:
 #         print('NO')
