@@ -38,7 +38,6 @@ def top():
 
 for i in range(n) :
     command = sys.stdin.readline().split()
-    
     if (command[0] == 'push'):
         push(command[1])
     elif (command[0] == 'pop'):
