@@ -6,3 +6,4 @@ check = list(map(int, input().split()))
 
 for i in check: 
     print(numbers.count(i), end=' ')
+# -> 시간 초과 뜬 답 
