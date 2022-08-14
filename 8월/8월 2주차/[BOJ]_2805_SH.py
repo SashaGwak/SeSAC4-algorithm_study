@@ -7,7 +7,6 @@ start, end = 1, max(trees)
 # start와 end가 같아질 때까지 반복
 while start <= end: 
     mid = (start + end) // 2 # 중간 위치
-    print(mid)
 
     count = 0 # 벌목된 나무 총합 
 
@@ -17,19 +16,14 @@ while start <= end:
         if tree >= mid: 
             # 자르기 
             count += tree - mid
-            print(count)
 
     # 자른 나무들의 길이가 목표값 이상이라면 
     if count >= M: 
         # 시작점 조정
         start = mid + 1
-        print(start)
-        print(end)
     # 목표값 이하라면
     else: 
         # 끝점 조정
         end = mid - 1 
-        print(start)
-        print(end)
     
 print(end)
