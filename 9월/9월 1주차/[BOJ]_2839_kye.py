@@ -18,3 +18,4 @@ while sugar >= 0 :
     bag += 1  # 5의 배수가 될 때까지 설탕-3, 봉지+1
 else :
     print(-1)
+    
