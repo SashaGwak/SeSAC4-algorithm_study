@@ -23,5 +23,3 @@ for _ in range(T):
         else:  # 중요도가 가장 높지 않다면
             Prioritys.append(Prioritys.pop(0)) # 우선순위와 인덱스 pop해서 맨뒤로 붙이기
             index.append(index.pop(0))
-
-
