@@ -25,5 +25,5 @@ SeSAC4기 알고리즘 스터디
 |3주차<br>(7.26~8.1)|[아스키코드](https://www.acmicpc.net/problem/11654)|[상수](https://www.acmicpc.net/problem/2908)|[한수](https://www.acmicpc.net/problem/1065)|[소수](https://www.acmicpc.net/problem/2581)|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|[정리](https://github.com/SashaGwak/SeSAC4-algorithm_study/blob/main/7%EC%9B%94/7%EC%9B%94%204%EC%A3%BC%EC%B0%A8/7_4study.md)|
 |4주차<br>(8.2~8.8)|[하노이의 탑 이동순서](https://www.acmicpc.net/problem/11729)|[스택](https://www.acmicpc.net/problem/10828)|[막대기](https://www.acmicpc.net/problem/17608)|[스택 수열](https://www.acmicpc.net/problem/1874)|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|[정리](https://github.com/SashaGwak/SeSAC4-algorithm_study/blob/main/8%EC%9B%94/8%EC%9B%94%201%EC%A3%BC%EC%B0%A8/8_1.md)|
 |5주차<br>(8.9~8.15)|[괄호](https://www.acmicpc.net/problem/9012)|[에디터](https://www.acmicpc.net/problem/1406)|[팰린드롬 수](https://www.acmicpc.net/problem/1259)|[나무 자르기](https://www.acmicpc.net/problem/2805)|[숫자카드2](https://www.acmicpc.net/problem/10816)||
-|프로젝트 기간(8.16 ~ 8.29)|
+|프로젝트 기간(8.16 ~ 8.29)|||||||
 |6주차<br>(8.30~9.05)|[랜선자르기](https://www.acmicpc.net/problem/1654)|[프린터 큐](https://www.acmicpc.net/problem/1966)|[좌표정렬](https://www.acmicpc.net/problem/11650)|[설탕 배달](https://www.acmicpc.net/problem/2839)|[마인크레프트](https://www.acmicpc.net/problem/18111)||
