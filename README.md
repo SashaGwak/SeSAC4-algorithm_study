@@ -27,4 +27,4 @@ SeSAC4기 알고리즘 스터디
 |5주차<br>(8.9~8.15)|[괄호](https://www.acmicpc.net/problem/9012)|[에디터](https://www.acmicpc.net/problem/1406)|[팰린드롬 수](https://www.acmicpc.net/problem/1259)|[나무 자르기](https://www.acmicpc.net/problem/2805)|[숫자카드2](https://www.acmicpc.net/problem/10816)||
 |프로젝트 기간(8.16 ~ 8.29)|||||||
 |6주차<br>(8.30~9.05)|[랜선자르기](https://www.acmicpc.net/problem/1654)|[프린터 큐](https://www.acmicpc.net/problem/1966)|[좌표정렬](https://www.acmicpc.net/problem/11650)|[설탕 배달](https://www.acmicpc.net/problem/2839)|[마인크레프트](https://www.acmicpc.net/problem/18111)||
-|7주차<br>(9.06~9.12)|[1로 만들기](https://www.acmicpc.net/problem/1465)|[2*n 타일링](https://www.acmicpc.net/problem/11726)|[2*n 타일링 2](https://www.acmicpc.net/problem/11727)|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[쉬운계단 수](https://www.acmicpc.net/problem/10844)||
+|7주차<br>(9.06~9.12)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[2*n 타일링](https://www.acmicpc.net/problem/11726)|[2*n 타일링 2](https://www.acmicpc.net/problem/11727)|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[쉬운계단 수](https://www.acmicpc.net/problem/10844)||
