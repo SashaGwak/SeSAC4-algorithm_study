@@ -10,14 +10,10 @@ n=5 -> 13
 '''
 T = int(input())
 dp = [0, 1, 2, 4]
-num = []
 
 for i in range(4, 12): 
     dp.append(dp[i-1]+dp[i-2]+dp[i-3])
     
-for i in range(4, T+4): 
+for _ in range(0, T):
     n = int(input())
-    num.append(n)
-
-for i in num:
-    print(dp[i])
+    print(dp[n])
