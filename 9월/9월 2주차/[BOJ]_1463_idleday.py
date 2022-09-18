@@ -3,8 +3,9 @@
 
 n = int(input())
 
-# n+1개만큼의 0으로 이루어진 배열 만들기
+# memoization
 dp = [0 for _ in range(n+1)]
+d = [0] * (n + 1)
 
 # index == 입력(n)
 # index값 == 출력(연산최솟값)
