@@ -1,5 +1,5 @@
 import sys
-input = sys.stdin.readline
+input = sys.stdin.readline()
 
 n = int(input())
 # 범위 설정
