@@ -18,6 +18,7 @@ SeSAC4기 알고리즘 스터디
 * 매주 월요일 11시 코드리뷰 및 문답식 회의 진행
 ## 진행 상황 
 📅 일정표 (매주 5문제, 8주차 완료🎉)
+📓 [팀 공부내용 정리 노션 Link](https://dusty-teller-04e.notion.site/f5500ce31e8a40039b4b55a8540893a6)
 ||1|2|3|4|5|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1주차<br>(7.12~7.18)|[고양이](https://www.acmicpc.net/problem/10171)|[A+B](https://www.acmicpc.net/problem/1000)|[사칙연산](https://www.acmicpc.net/problem/10869)|[시험성적](https://www.acmicpc.net/problem/9498)|[구구단](https://www.acmicpc.net/problem/2739)|
