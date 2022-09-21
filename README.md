@@ -18,8 +18,8 @@ SeSAC4기 알고리즘 스터디
 * 매주 월요일 11시 코드리뷰 및 문답식 회의 진행
 ## 진행 상황 
 📅 일정표 (매주 5문제, 8주차 완료🎉)
-||1|2|3|4|5|공부내용|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+||1|2|3|4|5|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1주차<br>(7.12~7.18)|[고양이](https://www.acmicpc.net/problem/10171)|[A+B](https://www.acmicpc.net/problem/1000)|[사칙연산](https://www.acmicpc.net/problem/10869)|[시험성적](https://www.acmicpc.net/problem/9498)|[구구단](https://www.acmicpc.net/problem/2739)|
 |2주차<br>(7.19~7.25)|[A+B -5](https://www.acmicpc.net/problem/10952)|[A+B-4](https://www.acmicpc.net/problem/10951)|[최댓값](https://www.acmicpc.net/problem/2562)|[숫자의 개수](https://www.acmicpc.net/problem/2577)|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|
 |3주차<br>(7.26~8.1)|[아스키코드](https://www.acmicpc.net/problem/11654)|[상수](https://www.acmicpc.net/problem/2908)|[한수](https://www.acmicpc.net/problem/1065)|[소수](https://www.acmicpc.net/problem/2581)|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|
