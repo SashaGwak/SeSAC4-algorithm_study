@@ -42,6 +42,7 @@ for i in range(M):
     graph[a].append(b)
     graph[b].append(a)
 for i in range(1, N+1):
+    # 작은 수부터 할 수 체크할 수 있도록 정렬
     graph[i].sort()
 '''
 입력값 
