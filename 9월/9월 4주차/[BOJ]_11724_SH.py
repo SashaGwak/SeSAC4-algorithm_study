@@ -13,3 +13,13 @@ for i in range(M):
     graph[b].append(a)
 for i in range(1, N+1): 
     graph[i].sort()
+'''
+6 5
+1 2
+2 5
+5 1
+3 4
+4 6
+일 경우, 그래프 [[], [2, 5], [1, 5], [4], [3, 6], [1, 2], [4]]
+'''
+
