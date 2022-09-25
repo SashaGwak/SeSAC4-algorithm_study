@@ -5,8 +5,8 @@ input = sys.stdin.readline
 
 # bfs
 def bfs(start, group):
-    queue = deque([start])  # 시작 정점 값을 큐에 담는다.
-    visited[start] = group  # 시작 정점 그룹을 설정
+    queue = deque([start])  # 시작 정점 값을 큐에 담는다 
+    visited[start] = group  # 시작 정점 그룹을 설정(1, -1)
 
     while queue: 
         x = queue.popleft()  # 큐의 맨앞 원소를 빼낸다.
