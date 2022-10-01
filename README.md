@@ -17,7 +17,7 @@ SeSAC4기 알고리즘 스터디
 * 문제를 풀며 공부한 내용, 책을 읽으며 공부한 내용을 디스코드에 공유
 * 매주 월요일 11시 코드리뷰 및 문답식 회의 진행
 ## 진행 상황 
-📅 일정표 (매주 5문제, 8주차 완료🎉)<br>
+📅 일정표 (매주 5문제, 10주차 완료🎉)<br>
 📓 [팀 공부내용 정리 노션 Link](https://dusty-teller-04e.notion.site/f5500ce31e8a40039b4b55a8540893a6)
 ||1|2|3|4|5|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -30,3 +30,5 @@ SeSAC4기 알고리즘 스터디
 |6주차<br>(8.30~9.05)|[랜선자르기](https://www.acmicpc.net/problem/1654)|[프린터 큐](https://www.acmicpc.net/problem/1966)|[좌표정렬](https://www.acmicpc.net/problem/11650)|[설탕 배달](https://www.acmicpc.net/problem/2839)|[마인크레프트](https://www.acmicpc.net/problem/18111)|
 |7주차<br>(9.06~9.12)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[2*n 타일링](https://www.acmicpc.net/problem/11726)|[2*n 타일링 2](https://www.acmicpc.net/problem/11727)|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|[쉬운계단 수](https://www.acmicpc.net/problem/10844)|
 |8주차<br>(9.13~9.18)|[오르막 수](https://www.acmicpc.net/problem/11057)|[이친수](https://www.acmicpc.net/problem/2193)|[스티커](https://www.acmicpc.net/problem/9465)|[포도주 시식](https://www.acmicpc.net/problem/2156)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|
+|9주차<br>(9.19~9.25)|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|[연결요소의 개수](https://www.acmicpc.net/problem/11724)|[이분그래프](https://www.acmicpc.net/problem/1707)|[순열사이클](https://www.acmicpc.net/problem/10451)|[텀 프로젝트](https://www.acmicpc.net/problem/9466)|
+|10주차<br>(9.26~10.2)|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[트리 순회](https://www.acmicpc.net/problem/1991)|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[트리의 부모 찾기](https://www.acmicpc.net/problem/10815)|
