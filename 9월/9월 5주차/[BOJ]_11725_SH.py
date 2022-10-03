@@ -12,8 +12,7 @@ for i in range(n-1):
 
 visited = [0]*(n+1)
 
-arr = []
-
+# visited 으로 연결되어있는 부모 노드 값들 저장해줌
 def dfs(s):
     for i in graph[s]:
         if visited[i] == 0:
