@@ -10,21 +10,21 @@ for n in range(N):
     tree[root] = [left, right]
 
 
-def preorder(root):
+def preorder(root):  # 전위 순회
     if root != '.':
         print(root, end='')  # root
         preorder(tree[root][0])  # left
         preorder(tree[root][1])  # right
 
 
-def inorder(root):
+def inorder(root):  # 중위 순회
     if root != '.':
         inorder(tree[root][0])  # left
         print(root, end='')  # root
         inorder(tree[root][1])  # right
 
 
-def postorder(root):
+def postorder(root):    # 후위 순회
     if root != '.':
         postorder(tree[root][0])  # left
         postorder(tree[root][1])  # right
