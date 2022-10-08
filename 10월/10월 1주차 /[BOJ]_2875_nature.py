@@ -1,7 +1,7 @@
 # 2875 대회 or 인턴
 
 # 여학생 수 N, 남학생 수 M, 인턴쉽에 참여해야하는 인원 K
-N, M, K = map(int, input().split(()))
+N, M, K = map(int, input().split())
 
 result = 0
 
