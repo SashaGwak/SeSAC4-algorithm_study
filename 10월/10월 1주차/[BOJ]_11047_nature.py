@@ -16,3 +16,4 @@ for i in reversed(range(N)): # 제일 큰 돈부터 for 문 돌기 위해
         break
 
 print(result)
+
