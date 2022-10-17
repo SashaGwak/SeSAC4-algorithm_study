@@ -1,5 +1,4 @@
 # 11497 통나무 건너뛰기
-
 import sys
 T = int(sys.stdin.readline())   # 테스트 케이스 개수 입력
 
