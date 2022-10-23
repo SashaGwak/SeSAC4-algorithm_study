@@ -29,6 +29,7 @@ def bfs(x):
         for i in graph[a]:
             if visited[i] == 0:
                 q.append(i)
+            # visit[자식 노드]에 visit[부모 노드] + 1을 넣어준다.
                 visited[i] = visited[a] + 1
 
 
