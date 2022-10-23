@@ -14,6 +14,7 @@ for _ in range(m):
 count = 0 
 visited = [0]*(n+1)
 
+# dfs 함수 생성
 def dfs(start):
     global count
     visited[start] = 1   # 방문 처리 
