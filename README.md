@@ -17,7 +17,7 @@ SeSAC4기 알고리즘 스터디
 * 문제를 풀며 공부한 내용, 책을 읽으며 공부한 내용을 디스코드에 공유
 * 매주 월요일 11시 코드리뷰 및 문답식 회의 진행
 ## 진행 상황 
-📅 일정표 (매주 5문제, 11주차 완료🎉)<br>
+📅 일정표 (매주 5문제, 14주차 완료🎉)<br>
 📓 [팀 공부내용 정리 노션 Link](https://dusty-teller-04e.notion.site/f5500ce31e8a40039b4b55a8540893a6)
 ||1|2|3|4|5|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -35,3 +35,4 @@ SeSAC4기 알고리즘 스터디
 |11주차<br>(10.3~10.9)|[동전 0](https://www.acmicpc.net/problem/11047)|[대회 or 인턴](https://www.acmicpc.net/problem/2875)|[30](https://www.acmicpc.net/problem/10610)|[병든 나이트](https://www.acmicpc.net/problem/1783)|[회의실 배정](https://www.acmicpc.net/problem/1931)|
 |12주차<br>(10.10~10.17)|[신입사원](https://www.acmicpc.net/problem/1946)|[통나무 건너뛰기](https://www.acmicpc.net/problem/11497)|[A->B](https://www.acmicpc.net/problem/16953)|[사과나무](https://www.acmicpc.net/problem/19539)|[도서관](https://www.acmicpc.net/problem/1461)|
 |13주차<br>(10.18~10.24)|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[수리공 항승](https://www.acmicpc.net/problem/1449)|[수 찾기](https://www.acmicpc.net/problem/1920)|[바이러스](https://www.acmicpc.net/problem/2606)|[결혼식](https://www.acmicpc.net/problem/5567)|
+|14주차<br>(10.25~10.31)|[과자 나눠주기](https://www.acmicpc.net/problem/16401)|[예산](https://www.acmicpc.net/problem/2512)|[덩치](https://www.acmicpc.net/problem/7568)|[퇴사](https://www.acmicpc.net/problem/14501)|[숫자판 점프](https://www.acmicpc.net/problem/2210)|
