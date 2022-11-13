@@ -7,7 +7,7 @@ SeSAC4기 알고리즘 스터디
     * Baekjoon Online Judge:https://www.acmicpc.net/
 
 ## 👨‍💻 스터디원
-* [SH](https://github.com/SashaGwak), [HAM](https://github.com/hamayj), [kye](https://github.com/kimyeaeun96), [soo](https://github.com/sjumkii), [nature](https://github.com/Ethanolll)
+* [SH](https://github.com/SashaGwak), [HAM](https://github.com/hamayj), [kye](https://github.com/kimyeaeun96), [soo](https://github.com/sjumkii), [nature](https://github.com/Ethanolll), [idleday](https://github.com/idledaydreamer), [junghwaK](https://github.com/junghwaK)
 ## 진행 방식 
 * 문제를 풀고, 깃허브에 업로드
 * 파일 이름 형식 
