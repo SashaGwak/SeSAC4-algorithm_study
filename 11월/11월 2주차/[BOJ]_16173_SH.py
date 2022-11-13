@@ -25,7 +25,7 @@ while queue:
 
     # 맨 오른쪽 아래 도달하면 HaruHaru 출력
     if board[x][y]== -1:
-        print('HaruHara')
+        print('HaruHaru')
         exit(0)
     
     # 점프값
