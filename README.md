@@ -38,4 +38,4 @@ SeSAC4기 알고리즘 스터디
 |14주차<br>(10.25~10.31)|[과자 나눠주기](https://www.acmicpc.net/problem/16401)|[예산](https://www.acmicpc.net/problem/2512)|[덩치](https://www.acmicpc.net/problem/7568)|[퇴사](https://www.acmicpc.net/problem/14501)|[숫자판 점프](https://www.acmicpc.net/problem/2210)|
 |프로젝트 기간(11.1~11.7)|||||||
 |15주차<br>(11.8~11.14)|[분해합](https://www.acmicpc.net/problem/2231)|[사다리](https://www.acmicpc.net/problem/2022)|[카드2](https://www.acmicpc.net/problem/2164)|[링](https://www.acmicpc.net/problem/3036)|[점프왕 쩰리](https://www.acmicpc.net/problem/16173)||
-|16주차<br>(11.15~11.21)|[경로찾기](https://www.acmicpc.net/problem/11403)|[차집합](https://www.acmicpc.net/problem/1822)|||||
+|16주차<br>(11.15~11.21)|[경로찾기](https://www.acmicpc.net/problem/11403)|[차집합](https://www.acmicpc.net/problem/1822)|[거스름돈](https://www.acmicpc.net/problem/5585)||||
