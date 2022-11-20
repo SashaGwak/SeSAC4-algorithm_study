@@ -15,6 +15,8 @@ visited = [[False]*3 for _ in range(N)]  # 방문여부 저장용 2차원 리스
 dx = [1, 0]     # 오른쪽만 가능
 dy = [0, 1]     # 아래만 가능
 
+# BFS
+
 
 def bfs(x, y):
     q = deque([(x, y)])
