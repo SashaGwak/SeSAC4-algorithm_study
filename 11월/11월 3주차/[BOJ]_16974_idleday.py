@@ -1,4 +1,5 @@
 # 16974 레벨 햄버거
+# DP 분할정복 재귀
 
 import sys
 input = sys.stdin.readline
