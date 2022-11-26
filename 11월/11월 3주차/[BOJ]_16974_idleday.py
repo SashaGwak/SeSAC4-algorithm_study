@@ -17,20 +17,24 @@ for i in range(1, N+1):
 
 # 먹은 패티 개수 구하기
 def getPatty(N, X):
-
-    if N == 0:                          # 레벨0 (패티 한 장인 경우)
+    # 레벨0 (패티 한 장인 경우)
+    if N == 0:
         return X
 
-    if X == 1:                          # 마지막 재료인 햄버거 번만 먹은 경우
+    # 마지막 재료인 햄버거 번만 먹은 경우
+    if X == 1:
         return 0
-    elif X <= 1 + burger[N - 1]:                        # case 1
-        return getPatty(N - 1, X - 1)                       # 맨 아래 번 빼고 X-1
+    # case 1
+    elif X <= 1 + burger[N - 1]:
+        return getPatty(N - 1, X - 1)   # 맨 아래 번 빼고 X-1
     # case 2  (딱 가운데 패티까지 먹은 경우)
     elif X == 1 + burger[N - 1] + 1:
         return patty[N - 1]+1
-    elif X <= 1 + burger[N - 1] + 1 + burger[N - 1]:    # case 3
+    # case 3
+    elif X <= 1 + burger[N - 1] + 1 + burger[N - 1]:
         return patty[N - 1] + 1 + getPatty(N - 1, X - burger[N - 1] - 2)
-    else:                                               # case4 (버거 다 먹은 경우)
+    # case4 (버거 다 먹은 경우)
+    else:
         return patty[N]
 
 
