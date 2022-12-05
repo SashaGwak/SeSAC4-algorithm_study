@@ -8,11 +8,16 @@ dy = [1, -1, 0, 0]
 t = int(input())
 
 
+dx = [0, 0, 1, -1]
+dy = [1, -1, 0, 0]
+
+t = int(input())
+
+
 def bfs(graph, a, b):
     queue = deque()
     queue.append((a, b))
     graph[a][b] = 0
-
     while queue:
         x, y = queue.popleft()
         for i in range(4):
@@ -40,4 +45,5 @@ for i in range(t):
             if graph[a][b] == 1:
                 bfs(graph, a, b)
                 cnt += 1
-    print(cnt)
+
+print(cnt)
